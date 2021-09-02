@@ -1,2 +1,2 @@
-# Kazi_INFO5731_-Fall2021
+# Kazi_INFO5731_Fall2021
 Class Assignment 01
